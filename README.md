@@ -1,17 +1,10 @@
-<link href="style.css" rel="stylesheet"/>
 # Juli-afk
-
-<style>
-  .icons {
-    height: 3vh;
-  }
-</style>
 
 <div style="display: flex; flex-direction: column;">
   <p>Programming Languages</p>
   <div style="display: flex; flex-direction: row;">
-    <img class="icons" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon"/>
-    <img class="icons" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS icon"/>
+    <img class="icons" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: 3vh;"/>
+    <img class="icons" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS icon" style="height: 3vh;"/>
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS icon" style="height: 3vh;"/>
     <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java icon" style="height: 3vh;"/>
     <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin icon" style="height: 3vh;"/>
