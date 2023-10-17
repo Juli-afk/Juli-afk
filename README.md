@@ -2,7 +2,7 @@
 <div style="display: flex; flex-direction: row;">
   <div></div>
     <h3>HTML</h3>
-    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: 5vh;"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: imageHeight;"/>
   </div>
   CSS
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="HTML icon" style="height: 10vh;"/>
@@ -39,3 +39,6 @@
   Android Studio
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="HTML icon" style="height: 10vh;"/>
 </div>
+<script>
+  const imageHeight = 5vh;
+</script>
