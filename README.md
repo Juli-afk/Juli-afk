@@ -1,6 +1,6 @@
 # Juli-afk
 <div style="display: flex; flex-direction: row;">
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; width: 50%;">
     <p>Programming Languages</p>
     <div style="display: flex; flex-direction: row;">
       <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: 3vh;"/>
@@ -18,7 +18,7 @@
       <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django icon" style="height: 3vh;"/>
     </div>
   </div>
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; width: 50%;">
     <p>Engines</p>
     <div style="display: flex; flex-direction: row;">
       <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity icon" style="height: 3vh;"/>
