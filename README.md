@@ -1,6 +1,6 @@
 # Juli-afk
 <div style="display: flex; flex-direction: row;">
-  <div style="display: flex; flex-direction: column; width: 50%;">
+  <div style="display: flex; flex-direction: column;">
     <p>Programming Languages</p>
     <div style="display: flex; flex-direction: row;">
       <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: 3vh;"/>
@@ -22,8 +22,8 @@
       <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity icon" style="height: 3vh;"/>
     </div>
   </div>
-    <div style="display: flex; flex-direction: column; width: 50%;">
-      <p>Mobile</p>
+  <div style="display: flex; flex-direction: column;;">
+    <p>Mobile</p>
     <div style="display: flex; flex-direction: row;">
       <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android icon" style="height: 3vh;"/>
     </div>
