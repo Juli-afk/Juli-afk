@@ -1,6 +1,8 @@
 # Juli-afk
-HTML
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: 10vh;"/>
+<div></div>
+  <h3>HTML</h3>
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" style="height: 10vh;"/>
+</div>
 CSS
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="HTML icon" style="height: 10vh;"/>
 JS
