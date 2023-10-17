@@ -17,12 +17,12 @@
       <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express icon" style="height: 3vh;"/>
       <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django icon" style="height: 3vh;"/>
     </div>
-  </div>
-  <div style="display: flex; flex-direction: column; width: 50%;">
     <p>Engines</p>
     <div style="display: flex; flex-direction: row;">
       <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity icon" style="height: 3vh;"/>
     </div>
+  </div>
+    <div style="display: flex; flex-direction: column; width: 50%;">
       <p>Mobile</p>
     <div style="display: flex; flex-direction: row;">
       <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android icon" style="height: 3vh;"/>
