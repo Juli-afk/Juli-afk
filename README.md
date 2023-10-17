@@ -45,3 +45,10 @@
   </div>
 </div>
 
+<style>
+  .icons {
+    height: 3vh;
+  }
+</style>
+
+
