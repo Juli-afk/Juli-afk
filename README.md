@@ -9,7 +9,6 @@
     <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin icon" style="height: 5vh;"/>
     <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C# icon" style="height: 5vh;"/>
     <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python icon" style="height: 5vh;"/>
-    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android icon" style="height: 5vh;"/>
   </div>
   <p>Frameworks</p>
   <div style="display: flex; flex-direction: row;">
@@ -20,6 +19,10 @@
   <p>Engines</p>
   <div style="display: flex; flex-direction: row;">
     <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity icon" style="height: 5vh;"/>
+  </div>
+    <p>Modile</p>
+  <div style="display: flex; flex-direction: row;">
+    <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android icon" style="height: 5vh;"/>
   </div>
   <p>Databases</p>
   <div style="display: flex; flex-direction: row;">
