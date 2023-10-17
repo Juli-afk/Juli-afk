@@ -1,6 +1,12 @@
 <link href="style.css" rel="stylesheet"/>
 # Juli-afk
 
+<style>
+  .icons {
+    height: 3vh;
+  }
+</style>
+
 <div style="display: flex; flex-direction: column;">
   <p>Programming Languages</p>
   <div style="display: flex; flex-direction: row;">
@@ -45,10 +51,5 @@
   </div>
 </div>
 
-<style>
-  .icons {
-    height: 3vh;
-  }
-</style>
 
 
