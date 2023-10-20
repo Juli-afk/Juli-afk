@@ -28,6 +28,7 @@
   <p>Mobile</p>
   <div style="display: flex; flex-direction: row;">
     <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android icon" style="height: 3vh;"/>
+        <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="Jetpack Compose icon" style="height: 3vh;"/>
   </div>
   <p>Databases</p>
   <div style="display: flex; flex-direction: row;">
